@@ -9,7 +9,7 @@
  * @h: pointer to number of elements
 
  * Return: the number of element linked
-i
+
  */
 
 size_t list_len(const list_t *h)
